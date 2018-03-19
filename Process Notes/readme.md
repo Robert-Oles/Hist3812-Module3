@@ -7,16 +7,21 @@ So I feel back onto Twine and after we played Path of Honour in class and create
 As for the actual steps to create this game: 
 
 *Step One*
+
 Open up [Twine](http://twinery.org/2/#!/)
 
 *Step Two*
+
 Create an account and create a new story
 
 *Step Three*
+
 Open the initial passage and edit it as you want while adding player opitions with [[]]
 
 *Step Four*
+
 Continuing adding story passages until you are comfortable with the finished product
 
 *Step Five*
+
 When you are done, pubish to file and upload it to [philome.la](http://www.philome.la/)
